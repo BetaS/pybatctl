@@ -2,4 +2,4 @@
 
 __author__ = "BetaS"
 
-from pybatctl import *
+from BATMAN import *
